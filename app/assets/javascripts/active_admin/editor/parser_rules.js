@@ -178,7 +178,6 @@
               "rename_tag": "span"
           },
           "iframe": {
-              "remove": 0
           },
           "figcaption": {
               "rename_tag": "div"
@@ -260,7 +259,6 @@
               }
           },
           "object": {
-              "remove": 0
           },
           "div": {
               "add_class": {
@@ -291,10 +289,8 @@
               "rename_tag": "span"
           },
           "noscript": {
-              "remove": 0
           },
           "svg": {
-              "remove": 0
           },
           "input": {
               "remove": 1
@@ -334,11 +330,9 @@
               "remove": 1
           },
           "video": {
-              "remove": 0
           },
           "strong": {},
           "canvas": {
-              "remove": 0
           },
           "output": {
               "rename_tag": "span"
