@@ -179,7 +179,13 @@
           },
         "iframe": {
             "check_attributes": {
-                "src": "url"
+                "src": "url",
+                "width": "alt",
+                "height": "alt",
+                "frameborder": "alt",
+                "webkitAllowFullScreen": "alt",
+                "mozAllowFullScreen": "alt",
+                "allowFullScreen"
             }
         },
           "figcaption": {
