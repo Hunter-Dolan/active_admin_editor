@@ -185,7 +185,7 @@
                 "frameborder": "alt",
                 "webkitAllowFullScreen": "alt",
                 "mozAllowFullScreen": "alt",
-                "allowFullScreen"
+                "allowFullScreen": "alt"
             }
         },
           "figcaption": {
