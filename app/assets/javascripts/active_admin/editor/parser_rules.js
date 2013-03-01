@@ -178,7 +178,7 @@
               "rename_tag": "span"
           },
           "iframe": {
-              "remove": 1
+              "remove": 0
           },
           "figcaption": {
               "rename_tag": "div"
@@ -260,7 +260,7 @@
               }
           },
           "object": {
-              "remove": 1
+              "remove": 0
           },
           "div": {
               "add_class": {
@@ -291,10 +291,10 @@
               "rename_tag": "span"
           },
           "noscript": {
-              "remove": 1
+              "remove": 0
           },
           "svg": {
-              "remove": 1
+              "remove": 0
           },
           "input": {
               "remove": 1
@@ -334,11 +334,11 @@
               "remove": 1
           },
           "video": {
-              "remove": 1
+              "remove": 0
           },
           "strong": {},
           "canvas": {
-              "remove": 1
+              "remove": 0
           },
           "output": {
               "rename_tag": "span"
@@ -353,7 +353,7 @@
               }
           },
           "applet": {
-              "remove": 1
+              "remove": 0
           },
           "span": {},
           "rp": {
@@ -416,7 +416,7 @@
               "rename_tag": "span"
           },
           "embed": {
-              "remove": 1
+              "remove": 0
           },
           "hgroup": {
               "rename_tag": "div"
@@ -492,7 +492,7 @@
               "set_class": "wysiwyg-text-align-center"
           },
           "audio": {
-              "remove": 1
+              "remove": 0
           },
           "datalist": {
               "rename_tag": "span"
@@ -511,7 +511,7 @@
               "remove": 1
           },
           "script": {
-              "remove": 1
+              "remove": 0
           },
           "bdo": {
               "rename_tag": "span"
